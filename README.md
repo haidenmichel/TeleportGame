@@ -1,10 +1,10 @@
-# TelportGame
-Telport Game is a open-source telporting system created by Piggy's Builds on Roblox and scripted by Roblox scripter WEcompany. 
-You can visit Telport Game here, but the open source version will be using the new system used in Telport Game 2, the sequel. - https://roblox.com/games/6300537258/Telport-Game
+# TeleportGame
+Teleport Game is a open-source teleporting system created by Piggy's Builds on Roblox and scripted by Roblox scripter WEcompany. 
+You can visit Teleport Game here, but the open source version will be using the new system used in Teleport Game 2, the sequel. - https://roblox.com/games/6300537258/
 You can try the sequel here:
 https://roblox.com/games/6487850208/
-The original game Telport Game has some depricated functions that Telport Game 2 fixes. Telport Game 2 features a new scripted system that is faster and more efficent.
-I am currently working on a trailer for Telport Game 2. Telport Game 2 gets an update every Sunday. 
+The original game Teleport Game has some depricated functions that Teleport Game 2 fixes. Teleport Game 2 features a new scripted system that is faster and more efficent.
+I am currently working on a trailer for Teleport Game 2. Teleport Game 2 gets an update every Sunday. 
 If the update doesn't come out I will notify you on my Twitter - https://twitter.com/ModulePiggy
 Currently, I work for WEstudios as the Co-Owner and Builder. You can join Cried to know about my main games and projects. 
 https://roblox.com/groups/5123445/

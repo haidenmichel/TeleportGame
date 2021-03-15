@@ -1,4 +1,4 @@
-# TeleportGame
+# Teleport Game
 Teleport Game is a open-source teleporting system created by Piggy's Builds on Roblox and scripted by Roblox scripter WEcompany. 
 You can visit Teleport Game here, but the open source version will be using the new system used in Teleport Game 2, the sequel. - https://roblox.com/games/6300537258/
 You can try the sequel here:
